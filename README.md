@@ -1,5 +1,5 @@
 # CodeWars Solutions
-![Current Profile Badge](https://www.codewars.com/users/CommonLouis/badges/large)
+![Current Profile Badge](https://www.codewars.com/users/M_Persic/badges/large)
 
 ## Description
 
@@ -64,8 +64,9 @@ bash <name>.bash
 - Rust:
 
 ```
-rustc <name>.rs && ./<name>
+rustc <name>.rs && ./<name> OR play.rust-lang.org/
 ```
+ OR play.rust-lang.org/
 
 # Help
 
