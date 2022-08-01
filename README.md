@@ -1,5 +1,5 @@
 # CodeWars Solutions
-![Current Profile Badge](https://www.codewars.com/users/M_Persic/badges/large)
+![Current Profile Badge](https://www.codewars.com/users/M_PERSIC/badges/large)
 
 ## Description
 
