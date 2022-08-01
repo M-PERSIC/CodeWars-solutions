@@ -61,12 +61,8 @@ python3 <name>.py
 bash <name>.bash
 ```
 
-- Rust:
+- Rust: use [The Rust Playground](https://play.rust-lang.org/)
 
-```
-rustc <name>.rs && ./<name> OR play.rust-lang.org/
-```
- OR play.rust-lang.org/
 
 # Help
 
