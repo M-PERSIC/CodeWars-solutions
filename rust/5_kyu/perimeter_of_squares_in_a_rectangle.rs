@@ -7,8 +7,7 @@ https://www.codewars.com/kata/559a28007caad2ac4e000083
 
 fn perimeter(n: u64) -> u64 {
     match n {
-        0 => 0,
-        1 => 1,
+        0 | 1 => n,
         _ => {
             let mut fib: Vec<u64> = vec![1,1];
             for num in 2..=n {
@@ -18,7 +17,6 @@ fn perimeter(n: u64) -> u64 {
         }
     }
 }
-
 
 fn main() {
     println!("{}", perimeter(5)); // 80
