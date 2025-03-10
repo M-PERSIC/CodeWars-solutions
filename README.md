@@ -5,7 +5,7 @@
 
 Personal repository for various CodeWars solutions.
 
-**Programming Languages**: Java 1.8+, Kotlin 1.3, C++17 (Clang), Lua 5.3, Python 3.8, R 3.4.1, Shell (Bash), Rust 1.56+, Julia 1.6+, Go 1.24+
+**Programming Languages**: Java 1.8+, Kotlin 1.3, C++17 (Clang), Lua 5.3, Python 3.8, R 3.4.1, Shell (Bash), Rust 1.56+, Julia 1.6+, Go 1.20+
  
 ## Getting Started
 
