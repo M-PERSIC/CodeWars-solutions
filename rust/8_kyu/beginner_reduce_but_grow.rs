@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.31, 2022
-Beginner - Reduce but Grow
-https://www.codewars.com/kata/57f780909f7e8e3183000078
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57f780909f7e8e3183000078
 
 fn grow(nums: Vec<i32>) -> i32 {
     nums.iter().product()

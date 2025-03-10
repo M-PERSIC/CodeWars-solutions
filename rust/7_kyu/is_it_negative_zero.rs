@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.05, 2022
-Is It Negative Zero (-0)?
-https://www.codewars.com/kata/5c5086287bc6600001c7589a/train/rust
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5c5086287bc6600001c7589a/train/rust
 
 fn is_negative_zero(n: f32) -> bool {
     n == 0.0 && n.is_sign_negative()

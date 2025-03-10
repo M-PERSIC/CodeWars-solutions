@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Sept.30, 2021
-String ends with?
-https://www.codewars.com/kata/51f2d1cafc9c0f745c0037d
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/51f2d1cafc9c0f745c0037d
 
 public class EndsWith {
 

@@ -1,9 +1,10 @@
 """
-Michael Persico
-Oct.12, 2021
-The Hashtag Generator
-https://www.codewars.com/kata/52449b062fb80683ec000024
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/52449b062fb80683ec000024
 
 def generate_hashtag(s):
     if (len(s) != 0):

@@ -1,10 +1,10 @@
--- [[
--- Michael Persico
--- Sept. 27, 2021
--- Going to the cinema
--- https://www.codewars.com/kata/562f91ff6a8b77dfe900006e
--- ]]
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
 
+SPDX-License-Identifier: MIT-0
+]]
+
+-- https://www.codewars.com/kata/562f91ff6a8b77dfe900006e
 
 function movie(card, ticket, perc)
   system_a = ticket

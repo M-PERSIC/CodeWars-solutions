@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug. 17, 2022
-Olympic Rings
-https://www.codewars.com/kata/57d06663eca260fe630001cc
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57d06663eca260fe630001cc
 
 fn olympic_ring(s: &str) -> String {
     let m: i32 = s.chars()

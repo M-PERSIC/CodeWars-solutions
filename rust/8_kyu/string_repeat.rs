@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-String repeat
-https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 
 use std::iter;
 

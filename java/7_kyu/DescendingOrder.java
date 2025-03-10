@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Oct.09, 2021
-Descending Order
-https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 
 import java.util.*;
 

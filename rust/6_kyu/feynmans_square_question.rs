@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.07, 2022
-Feynman's square question
-https://www.codewars.com/kata/551186edce486caa61000f5c
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/551186edce486caa61000f5c
 
 fn count_squares (n: u32) -> usize {
     (0..n).rev().map(|x| (n as u64 - x as u64).pow(2)).sum::<u64>() as usize

@@ -1,9 +1,10 @@
 """
-Michael Persico
-Sept.29, 2021
-Friend or Foe?
-https://www.codewars.com/kata/55b42574ff091733d900002f
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/55b42574ff091733d900002f
 
 def friend(x):
     return [friend for friend in x if len(friend) == 4 and friend.isalpha()]

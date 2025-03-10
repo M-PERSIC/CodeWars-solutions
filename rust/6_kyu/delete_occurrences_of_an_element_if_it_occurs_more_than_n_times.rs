@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.31, 2022
-Delete occurrences of an element if it occurs more than n times
-https://www.codewars.com/kata/554ca54ffa7d91b236000023
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/554ca54ffa7d91b236000023
 
 fn delete_nth(lst: &[u8], n: usize) -> Vec<u8> {
     let mut list: Vec<u8> = vec![];

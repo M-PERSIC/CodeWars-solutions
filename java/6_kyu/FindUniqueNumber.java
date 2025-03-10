@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Oct.03, 2021
-Find the unique number 
-https://www.codewars.com/kata/585d7d5adb20cf33cb000235
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/585d7d5adb20cf33cb000235
 
 import java.util.stream.*;
 import java.util.*;

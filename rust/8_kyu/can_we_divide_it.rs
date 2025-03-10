@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-Can we divide it?
-https://www.codewars.com/kata/5a2b703dc5e2845c0900005a
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5a2b703dc5e2845c0900005a
 
 fn is_divide_by(number: i32, a: i32, b: i32) -> bool {
     number % a ==0 && number % b == 0

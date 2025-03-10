@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Oct.15, 2021
-Find the next perfect square!
-https://www.codewars.com/kata/56269eb78ad2e4ced1000013
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 
 import java.lang.Math;
 

@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.17, 2022
-Love vs friendship
-https://www.codewars.com/kata/59706036f6e5d1e22d000016
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/59706036f6e5d1e22d000016
 
 fn words_to_marks(s: &str) -> u32 {
     s.chars()

@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-Remove First and Last Character
-https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 
 pub fn remove_char(s: &str) -> String {
     String::from(&s[1..s.len() - 1])

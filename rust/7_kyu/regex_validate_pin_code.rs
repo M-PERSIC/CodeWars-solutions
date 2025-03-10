@@ -1,10 +1,10 @@
-https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/rust
 /*
-Michael Persico
-Jul.29, 2022
-Regex validate PIN code
-https://www.codewars.com/kata/55f8a9c06c018a0d6e000132
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/55f8a9c06c018a0d6e000132
 
 use regex::Regex;
 

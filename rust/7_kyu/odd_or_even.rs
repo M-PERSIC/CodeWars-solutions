@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.30, 2022
-Odd or Even?
-https://www.codewars.com/kata/5949481f86420f59480000e7
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5949481f86420f59480000e7
 
 fn odd_or_even(numbers: Vec<i32>) -> String {
     match numbers.iter().sum::<i32>() {

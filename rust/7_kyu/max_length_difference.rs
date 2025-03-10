@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.24, 2022
-Maximum Length Difference
-https://www.codewars.com/kata/5663f5305102699bad000056
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5663f5305102699bad000056
 
 fn mx_dif_lg(a1: Vec<&str>, a2: Vec<&str>) -> i32 {
     let mut max_length: i32 = -1;

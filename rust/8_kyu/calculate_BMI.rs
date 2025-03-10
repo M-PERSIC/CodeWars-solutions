@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.31, 2022
-Calculate BMI!
-https://www.codewars.com/kata/57a429e253ba3381850000fb
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57a429e253ba3381850000fb
 
 https://www.codewars.com/kata/57a429e253ba3381850000fb/train/rust
 fn bmi(weight: u32, height: f32) -> &'static str {

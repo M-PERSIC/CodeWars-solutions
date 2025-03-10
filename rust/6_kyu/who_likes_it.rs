@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-Who likes it? BMI!
-https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 
 fn likes(names: &[&str]) -> String {
     match names {

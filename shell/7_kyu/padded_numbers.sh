@@ -1,8 +1,10 @@
-# Michael Persico
-# Oct.10, 2021
-# Substituting Variables Into Strings: Padded Numbers
+#!usr/bin/bash
+
+# SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+#
+# SPDX-License-Identifier: MIT-0
+
 # https://www.codewars.com/kata/51c89385ee245d7ddf000001
 
-#!usr/bin/bash
 
 printf "Value is %05d" $1

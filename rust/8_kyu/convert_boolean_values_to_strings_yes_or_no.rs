@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-Convert boolean values to strings 'Yes' or 'No'.
-https://www.codewars.com/kata/53369039d7ab3ac506000467
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/53369039d7ab3ac506000467
 
 fn bool_to_word(value: bool) -> &'static str {
     match value {

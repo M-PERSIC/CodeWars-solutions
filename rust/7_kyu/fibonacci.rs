@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.31, 2022
-Fibonacci
-https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af
 
 fn fib(n:u32)->u32{
     match n {

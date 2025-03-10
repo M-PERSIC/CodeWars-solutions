@@ -1,9 +1,10 @@
 """
-Michael Persico
-Sept.29, 2021
-Ones and Zeros
-https://www.codewars.com/kata/578553c3a1b8d5c40300037c
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/578553c3a1b8d5c40300037c
 
 def binary_array_to_number(arr):
     return int("0b" + "".join([str(digit) for digit in arr]), 2)

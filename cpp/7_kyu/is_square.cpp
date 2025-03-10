@@ -1,8 +1,10 @@
-/* Michael Persico
- * Sept. 25, 2021
- * You're a square! 
- * https://www.codewars.com/kata/54c27a33fb7da0db0100040e
- */
+/*
+* SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+*
+* SPDX-License-Identifier: MIT-0
+*/
+
+// https://www.codewars.com/kata/54c27a33fb7da0db0100040e
 
 #include <iostream>
 

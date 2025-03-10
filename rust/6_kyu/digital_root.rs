@@ -1,9 +1,11 @@
 /*
-Michael Persico
-Jul.28, 2022
-Sum of Digits / Digital Root
-https://www.codewars.com/kata/541c8630095125aba6000c00
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/541c8630095125aba6000c00
+
 fn digital_root(n: i64) -> i64 {
     let num = n.to_string()
         .chars()

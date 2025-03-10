@@ -1,9 +1,10 @@
--- [[
--- Michael Persico
--- Sept. 25, 2021
--- Drying Potates (7 kyu)
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+]]
+
 -- https://www.codewars.com/kata/58ce8725c835848ad6000007
--- ]]
 
 local kata = {}
 

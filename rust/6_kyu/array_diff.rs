@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.31, 2022
-Array.diff
-https://www.codewars.com/kata/523f5d21c841566fde000009
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/523f5d21c841566fde000009
 
 fn array_diff<T: PartialEq>(a: Vec<T>, b: Vec<T>) -> Vec<T> {
     let mut result = vec![];

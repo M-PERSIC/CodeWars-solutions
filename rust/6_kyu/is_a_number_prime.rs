@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug. 18, 2022
-Is a number prime?
-https://www.codewars.com/kata/5262119038c0985a5b00029f
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5262119038c0985a5b00029f
 
 fn is_prime(x: i64) -> bool {
     match x {

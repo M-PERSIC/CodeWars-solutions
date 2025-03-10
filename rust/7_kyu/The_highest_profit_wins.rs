@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.31, 2022
-The highest profit wins!
-https://www.codewars.com/kata/559590633066759614000063
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/559590633066759614000063
 
 fn min_max(lst: &[i32]) -> (i32, i32) {
     (*lst.iter().min().unwrap(), *lst.iter().max().unwrap())

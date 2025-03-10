@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.29, 2022
-Counting Valleys
-https://www.codewars.com/kata/5da9973d06119a000e604cb6
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5da9973d06119a000e604cb6
 
 fn counting_valleys(s: &str) -> u32 {
     let mut valleys: u32 = 0;

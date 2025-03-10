@@ -1,9 +1,10 @@
 /*
-* Michael Persico
-* Sept.28, 2021
-* Find The Parity Outlier
-* https://www.codewars.com/kata/5526fc09a1bbd946250002dc
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 
 fun find(integers: Array<Int>): Int {
     val oddArr: List<Int> = integers.filter{it % 2 == 0}

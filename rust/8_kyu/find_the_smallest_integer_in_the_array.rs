@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-Find the smallest integer in the array
-https://www.codewars.com/kata/55a2d7ebe362935a210000b2
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 
 fn find_smallest_int(arr: &[i32]) -> i32 {
     arr.iter().min().unwrap().to_owned()

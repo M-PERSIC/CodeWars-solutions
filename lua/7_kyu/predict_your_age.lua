@@ -1,9 +1,10 @@
--- [[
--- Michael Persico
--- Oct.18, 2021
--- Predict your age!
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+]]
+
 -- https://www.codewars.com/kata/5aff237c578a14752d0035ae
--- ]]
 
 function predictAge(age1,age2,age3,age4,age5,age6,age7,age8)
   age_list, sum = {}, 0

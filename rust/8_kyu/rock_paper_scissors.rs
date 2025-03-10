@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.28, 2022
-Rock Paper Scissors!
-https://www.codewars.com/kata/5672a98bdbdd995fad00000f
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5672a98bdbdd995fad00000f
 
 fn rps(p1: &str, p2: &str) -> &'static str  {
     match p1 {

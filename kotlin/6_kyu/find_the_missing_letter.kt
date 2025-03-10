@@ -1,8 +1,10 @@
-/* Michael Persico
-* Sept. 28, 2021
-* Find the missing letter
-* https://www.codewars.com/kata/5839edaa6754d6fec10000a2
+/*
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5839edaa6754d6fec10000a2
 
 fun findMissingLetter(array: CharArray): Char {
     val fullList: List<Int> = (0 .. array[array.size - 1].toInt() - array[0].toInt() step 1)

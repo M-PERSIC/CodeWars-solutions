@@ -1,9 +1,10 @@
 """
-Michael Persico
-Sept.29, 2021
-Find the divisors!
-https://www.codewars.com/kata/544aed4c4a30184e960010f4
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/544aed4c4a30184e960010f4
 
 def divisors(integer):
     divisors = [x for x in range(2,integer) if integer % x == 0]

@@ -1,9 +1,10 @@
 #=
-Michael Persico
-Oct. 05, 2022
-JavaScript Array Filter
-https://www.codewars.com/kata/514a6336889283a3d2000001
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 =#
+
+# https://www.codewars.com/kata/514a6336889283a3d2000001
 
 function getevennumbers(arr)
   filter(iseven, (arr))

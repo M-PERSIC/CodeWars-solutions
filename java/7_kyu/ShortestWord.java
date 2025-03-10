@@ -1,8 +1,10 @@
-/* Michael Persico
- * Sept 26, 2021
- * Shortest Word
- * https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
- */
+/*
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+*/
+
+// https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 
 import java.util.Arrays;
 import java.util.List;

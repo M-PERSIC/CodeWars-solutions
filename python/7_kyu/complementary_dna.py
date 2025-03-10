@@ -1,9 +1,10 @@
 """
-Michael Persico
-Sept.29, 2021
-Complementary DNA
-https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 
 def DNA_strand(dna):
     compl_strand = ""

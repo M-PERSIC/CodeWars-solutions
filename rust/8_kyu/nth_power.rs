@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.28 2022
-N-th Power
-https://www.codewars.com/kata/57d814e4950d8489720008db
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57d814e4950d8489720008db
 
 fn index(nums: &[u64], n: usize) -> Option<u64> {
     nums.into_iter().nth(n).and_then(|&x| Some(x.pow(n as u32)))

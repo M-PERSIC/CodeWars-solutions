@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.05, 2022
-Number of Decimal Digits
-https://www.codewars.com/kata/58fa273ca6d84c158e000052
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/58fa273ca6d84c158e000052
 
 fn digits(n: u64) -> usize {
   n.to_string().chars().count()

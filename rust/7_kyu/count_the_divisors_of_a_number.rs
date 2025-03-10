@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.03, 2022
-Count the divisors of a number
-https://www.codewars.com/kata/542c0f198e077084c0000c2e
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/542c0f198e077084c0000c2e
 
 fn divisors(n: u32) -> u32 {
     (1..=n).filter(|x| n % x == 0).count() as u32

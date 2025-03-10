@@ -1,9 +1,10 @@
--- [[ 
--- Michael Persico
--- Oct.08, 2021
--- Count characters in your string
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+]]
+
 -- https://www.codewars.com/kata/52efefcbcdf57161d4000091
--- ]]
 
 function count_chars(s)
   char_list = {}

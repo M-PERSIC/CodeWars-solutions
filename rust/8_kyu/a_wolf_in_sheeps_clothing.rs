@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-A wolf in sheep's clothing
-https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
 
 fn warn_the_sheep(queue: &[&str]) -> String {
     match queue.iter().last() {

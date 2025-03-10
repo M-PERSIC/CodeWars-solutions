@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.19, 2022
-Decode the Morse code 
-https://www.codewars.com/kata/54b724efac3d5402db00065e
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/54b724efac3d5402db00065e
 
 use regex::Regex;
 mod preloaded;

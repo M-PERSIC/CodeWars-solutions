@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.28, 2022
-Are You Playing Banjo?
-https://www.codewars.com/kata/53af2b8861023f1d88000832
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/53af2b8861023f1d88000832
 
 fn are_you_playing_banjo(name: &str) -> String {
     match name.chars().nth(0).unwrap() {

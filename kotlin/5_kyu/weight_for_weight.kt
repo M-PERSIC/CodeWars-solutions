@@ -1,9 +1,10 @@
 /*
- * Michael Persico
- * Oct.05, 2021
- * Weight for weight
- * https://www.codewars.com/kata/55c6126177c9441a570000cc
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/55c6126177c9441a570000cc
 
 fun orderWeight(string: String): String {
    

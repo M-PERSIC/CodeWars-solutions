@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.25, 2022
-Rot13
-https://www.codewars.com/kata/530e15517bc88ac656000716
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/530e15517bc88ac656000716
 
 fn rot13(message: &str) -> String {
     message.chars()

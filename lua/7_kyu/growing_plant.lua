@@ -1,10 +1,10 @@
--- [[
--- Michael Persico
--- Sept. 27, 2021
--- Growing Plant
--- https://www.codewars.com/kata/58941fec8afa3618c9000184
--- ]]
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
 
+SPDX-License-Identifier: MIT-0
+]]
+
+-- https://www.codewars.com/kata/58941fec8afa3618c9000184
 
 function growing_plant(upSpeed, downSpeed, desiredHeight)
     height, day = 0, 1

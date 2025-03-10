@@ -1,9 +1,10 @@
--- [[
--- Michael Persico
--- Oct.08, 2021
--- Even or Odd
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+]]
+
 -- https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
--- ]]
 
 function even_or_odd(number) if number % 2 == 0 then return "Even" else return "Odd" end end
 

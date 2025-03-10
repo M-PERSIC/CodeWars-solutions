@@ -1,9 +1,10 @@
--- [
--- Michael Persico
--- Sept.30, 2021
--- String matchup
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+]]
+
 -- https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4
--- ]
 
 function solve(a,b)
     strCounter, result = {}, {}

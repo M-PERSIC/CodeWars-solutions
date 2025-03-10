@@ -1,10 +1,10 @@
-https://www.codewars.com/kata/5556282156230d0e5e000089/train/rust
 /*
-Michael Persico
-Jul.29, 2022
-DNA to RNA Conversion
-https://www.codewars.com/kata/5556282156230d0e5e000089
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5556282156230d0e5e000089
 
 fn dna_to_rna(dna: &str) -> String {
     dna.chars().map(|x| match x {

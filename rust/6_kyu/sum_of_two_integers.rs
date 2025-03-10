@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-Sum of Two Integers 
-https://www.codewars.com/kata/5a9c35e9ba1bb5c54a0001ac
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5a9c35e9ba1bb5c54a0001ac
 
 fn add(x: i32, y: i32) -> i32 {
   let carry = (x & y) << 1;

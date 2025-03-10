@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.11, 2022
-Perimeter of squares in a rectangle
-https://www.codewars.com/kata/559a28007caad2ac4e000083
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/559a28007caad2ac4e000083
 
 fn perimeter(n: u64) -> u64 {
     match n {

@@ -1,9 +1,10 @@
 /*
- * Michael Persico
- * Sept. 28, 2021
- * Which are in?
- * https://www.codewars.com/kata/550554fd08b86f84fe000a58
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/550554fd08b86f84fe000a58
 
 fun inArray(array1: Array<String>, array2: Array<String>): Array<String> = array1.filter { str -> array2.any { it.contains(str) } }.distinct().sorted().toTypedArray()
 

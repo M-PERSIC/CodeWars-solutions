@@ -1,9 +1,10 @@
 """
-Michael Persico
-Oct.22, 2021
-Josephus Permutation
-https://www.codewars.com/kata/5550d638a99ddb113e0000a2
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/5550d638a99ddb113e0000a2
 
 def josephus(items,k):
     result, position, list_length = [], 0, len(items)

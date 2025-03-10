@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.22, 2022
-Round by 0.5 steps
-https://www.codewars.com/kata/51f1342c76b586046800002a
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/51f1342c76b586046800002a
 
 fn solution(n: f64) -> f64 {
     match n {

@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-CamelCase Method
-https://www.codewars.com/kata/587731fda577b3d1b0001196
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/587731fda577b3d1b0001196
 
 fn camel_case(str: &str) -> String {
     str.split_whitespace().map(|x| x[0..1].to_uppercase() + &x[1..]).collect()

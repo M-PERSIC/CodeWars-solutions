@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Oct.01, 2021
-Don't give me five!
-https://www.codewars.com/kata/5813d19765d81c592200001a
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5813d19765d81c592200001a
 
 import java.util.stream.*;
 

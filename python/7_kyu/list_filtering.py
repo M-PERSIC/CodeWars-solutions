@@ -1,9 +1,10 @@
 """
-Michael Persico
-Sept.29, 2021
-List Filtering
-https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
 
 def filter_list(l):
     return list(filter(lambda char: (type(char) != str), l))

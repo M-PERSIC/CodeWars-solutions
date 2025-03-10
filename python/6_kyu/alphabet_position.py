@@ -1,9 +1,10 @@
 """
-Michael Persico
-Sept.29, 2021
-Replace With Alphabet Positions
-https://www.codewars.com/546f922b54af40e1e90001da
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/546f922b54af40e1e90001da
 
 import re
 

@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Oct.15, 2021
-Counting Duplicates
-https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 
 import java.util.HashMap;
 import java.util.*;

@@ -1,9 +1,10 @@
 /*
- * Michael Persico
- * Sept. 28, 2021
- * Encrypt this!
- * https://www.codewars.com/kata/5848565e273af816fb000449
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5848565e273af816fb000449
 
 fun encryptThis(text:String): String = text.split(" ").map { it.first().toInt().toString() + (if (it.length > 1) it.last() else "") + (if (it.length > 2) it.substring(2, it.length - 1) + it.get(1) else "") }.joinToString(" ")
 

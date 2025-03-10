@@ -1,9 +1,11 @@
 /*
-Michael Persico
-Aug.26, 2022
-Stop gninnipS My sdroW!
-https://www.codewars.com/kata/5264d2b162488dc400000001
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5264d2b162488dc400000001
+
 fn spin_words(words: &str) -> String {
     words.split_whitespace()
     .map(|word| match word {

@@ -1,9 +1,10 @@
--- [[
--- Michael Persico
--- Oct.16, 2021
--- Disemvowel Trolls
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+]]
+
 -- https://www.codewars.com/kata/52fba66badcd10859f00097e
--- ]]
 
 function disemvowel(s) return string.gsub(s, "[aeiouAEIOU]", "") end
 

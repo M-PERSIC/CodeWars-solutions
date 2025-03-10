@@ -70,6 +70,6 @@ Please feel free to send me an email/send an issue form or pull request if you h
 
 # License 
 
-This project is licensed under the MIT License - see the LICENSE.md file for details. 
+This project is licensed under the MIT-0 License - see the LICENSE.md file for details. 
 
 TL;DR: Feel free to share the code, however it is best to attempt each challenge yourself before consulting other people's solutions.

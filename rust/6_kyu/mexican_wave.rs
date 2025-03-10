@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.30, 2022
-Mexican Wave
-https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
 
 fn wave(s: &str) -> Vec<String> {
     (0..s.len()).map(|x| "".to_string() 

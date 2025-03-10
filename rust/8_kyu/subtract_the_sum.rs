@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug. 31, 2022
-Subtract the Sum
-https://www.codewars.com/kata/56c5847f27be2c3db20009c3
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/56c5847f27be2c3db20009c3
 
 fn subtract_sum(mut n: u32) -> &'static str {
     while n > 0 {

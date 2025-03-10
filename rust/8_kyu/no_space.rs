@@ -1,9 +1,10 @@
 /*
-Michael Persico
-July 23, 2022
-Remove String Spaces
-https://www.codewars.com/kata/57eae20f5500ad98e50002c5
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57eae20f5500ad98e50002c5
 
 fn no_space(x : String) -> String{
     x.replace(" ", "")

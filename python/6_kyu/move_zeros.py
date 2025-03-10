@@ -1,9 +1,10 @@
 """
-Michael Persico
-Sept.29, 2021
-Moving Zeros To The End
-https://www.codewars.com/kata/52597aa56021e91c93000cb0
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/52597aa56021e91c93000cb0
 
 def move_zeros(array):
     noZeroes, Zeroes = [], []

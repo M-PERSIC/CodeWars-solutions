@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.30, 2022
-Grasshopper - Terminal game combat function
-https://www.codewars.com/kata/586c1cf4b98de0399300001d
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/586c1cf4b98de0399300001d
 
 fn combat(health: f32, damage: f32) -> f32 {
      std::ops::Sub::sub(health, damage).clamp(0.0, f32::MAX) 

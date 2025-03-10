@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.30, 2022
-Difference of Volumes of Cuboids
-https://www.codewars.com/kata/58cb43f4256836ed95000f97
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/58cb43f4256836ed95000f97
 
 fn find_difference(a: &[i32; 3], b: &[i32; 3]) -> i32 {
     i32::abs(a.iter().product::<i32>() - b.iter().product::<i32>())

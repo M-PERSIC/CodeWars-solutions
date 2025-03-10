@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Oct.01, 2021
-Highest and Lowest 
-https://www.codewars.com/kata/554b4ac871d6813a03000035
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/554b4ac871d6813a03000035
 
 import java.util.stream.*;
 import java.util.*;

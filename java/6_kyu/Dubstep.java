@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Oct.01, 2021
-Dubstep
-https://www.codewars.com/kata/551dc350bf4e526099000ae5
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/551dc350bf4e526099000ae5
 
 import java.util.*;
 import java.util.stream.*;

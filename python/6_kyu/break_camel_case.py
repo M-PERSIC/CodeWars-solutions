@@ -1,9 +1,10 @@
 """
-Michael Persico
-Oct.03, 2021
-Break camelCase
-https://www.codewars.com/kata/5208f99aee097e65520000148
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/5208f99aee097e65520000148
 
 def solution(s):
     indexes = [index for index, char in enumerate(s) if char.isupper()]

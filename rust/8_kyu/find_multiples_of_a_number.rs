@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.30, 2022
-Find Multiples of a Number
-https://www.codewars.com/kata/58ca658cc0d6401f2700045f
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/58ca658cc0d6401f2700045f
 
 fn find_multiples(n: u32, limit: u32) -> Vec<u32> {
     (1..=limit).filter(|x| x % n == 0).collect()

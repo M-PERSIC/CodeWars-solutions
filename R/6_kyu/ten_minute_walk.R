@@ -1,6 +1,7 @@
-# Michael Persico
-# Oct.03, 2021
-# Take a Ten Minute Walk
+# SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+# 
+# SPDX-License-Identifier: MIT-0
+
 # https://www.codewars.com/kata/54da539698b8a2ad76000228
 
 isValidWalk <- function(walk){

@@ -1,9 +1,10 @@
 """
-Michael Persico
-Aug.02, 2022
-Detect Pangram
-https://www.codewars.com/kata/545cedaa9943f7fe7b000048
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 """
+
+# https://www.codewars.com/kata/545cedaa9943f7fe7b000048
 
 import string 
 def is_pangram(s):

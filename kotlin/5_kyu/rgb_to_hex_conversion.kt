@@ -1,9 +1,10 @@
 /*
- * Michael Persico
- * Oct.16, 2021
- * RGB To Hex Conversion
- * https://www.codewars.com/kata/513e08acc600c94f01000001/train/kotlin
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/513e08acc600c94f01000001/train/kotlin
 
 fun rgb(r: Int, g: Int, b: Int): String {
     var r_valid: Int = if (r > 255) 255 else if (r < 0) 0 else r

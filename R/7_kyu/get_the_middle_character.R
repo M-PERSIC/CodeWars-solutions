@@ -1,6 +1,7 @@
-# Michael Persico
-# Oct.02, 2021
-# Get the Middle Character
+# SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+# 
+# SPDX-License-Identifier: MIT-0
+
 # https://www.codewars.com/kata/56747fd5cb988479af000028
 
 get_middle <- function(s) {

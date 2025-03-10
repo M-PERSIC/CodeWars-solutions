@@ -1,9 +1,11 @@
-/* Michael Persico
- * Sept. 25, 2021
- * Find the odd int
- * https://www.codewars.com/kata/54da5a58ea159efa38000836
- */
+/*
+* SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+*
+* SPDX-License-Identifier: MIT-0
+*/
 
+// https://www.codewars.com/kata/54da5a58ea159efa38000836
+ 
 #include <vector>
 #include <set>
 #include <algorithm>

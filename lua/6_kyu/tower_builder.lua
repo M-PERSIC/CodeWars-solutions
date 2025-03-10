@@ -1,9 +1,10 @@
--- [[ 
--- Michael Persico
--- Sept. 26, 2021
--- Build Tower
+--[[ 
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+]]
+
 -- https://www.codewars.com/kata/576757b1df89ecf5bd00073b/
--- ]]
 
 function towerBuilder(nFloors)
     tower = {}

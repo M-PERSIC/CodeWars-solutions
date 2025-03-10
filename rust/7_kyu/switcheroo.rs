@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Aug.19, 2022
-Switcheroo
-https://www.codewars.com/kata/57f759bb664021a30300007d
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/57f759bb664021a30300007d
 
 fn switcheroo(s: &str) -> String {
     s.chars()

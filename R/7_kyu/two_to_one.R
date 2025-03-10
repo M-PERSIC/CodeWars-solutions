@@ -1,6 +1,7 @@
-# Michael Persico
-# Sept. 25, 2021
-# Two to One
+# SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+# 
+# SPDX-License-Identifier: MIT-0
+
 # https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 
 longest <- function(s1, s2) {

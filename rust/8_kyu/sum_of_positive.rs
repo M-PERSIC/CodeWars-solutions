@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Jul.29, 2022
-Sum of positive
-https://www.codewars.com/kata/5715eaedb436cf5606000381
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+ 
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5715eaedb436cf5606000381
 
 fn positive_sum(slice: &[i32]) -> i32 {
     slice.iter().filter(|&&x| x > 0).sum()

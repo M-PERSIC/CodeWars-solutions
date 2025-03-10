@@ -1,9 +1,10 @@
 /*
-Michael Persico
-Sept. 25, 2021
-Credit Card Mask
-https://www.codewars.com/kata/5412509bd436bd33920011bc
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
 */
+
+// https://www.codewars.com/kata/5412509bd436bd33920011bc
 
 public class Maskify {
 
