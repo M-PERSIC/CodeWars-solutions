@@ -1,3 +1,11 @@
+/*
+SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+
+SPDX-License-Identifier: MIT-0
+*/
+
+// https://www.codewars.com/kata/534ea96ebb17181947000ada
+
 package main
 
 import "fmt"
