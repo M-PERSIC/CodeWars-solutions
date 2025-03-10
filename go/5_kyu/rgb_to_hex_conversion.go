@@ -6,7 +6,6 @@ SPDX-License-Identifier: MIT-0
 
 // https://www.codewars.com/kata/513e08acc600c94f01000001
 
-packa
 package main
 
 import (
