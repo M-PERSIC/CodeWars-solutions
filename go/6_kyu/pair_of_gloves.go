@@ -1,8 +1,6 @@
-/*
-SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
-
-SPDX-License-Identifier: MIT-0
-*/
+// SPDX-FileCopyrightText: 2025 Michael Persico <michael.a.persico@gmail.com>
+//
+// SPDX-License-Identifier: MIT-0
 
 // https://www.codewars.com/kata/58235a167a8cb37e1a0000db
 
