@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-0
 
-// https://www.codewars.com/kata/5873b2010565844b9100026d/train/go
+// https://www.codewars.com/kata/5873b2010565844b9100026d
 
 package main
 
